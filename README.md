@@ -1,0 +1,3 @@
+# HMMcode
+matlab代码用于训练模型及认证识别
+主要是用于训练手势模型的matlab代码
